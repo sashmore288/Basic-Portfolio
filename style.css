@@ -1,0 +1,33 @@
+
+header{
+	  padding: 70px;
+}
+
+h1{
+	 color: white;
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 33%;
+    float: left;
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+nav{
+	float: right;
+
+}
+
+.content{ 
+		background: grey;
+
+}
+
+.box{
+	background: #ffffff;
+	height: 260px;
+	width: 130px;
+	
+}
+
+.row2
