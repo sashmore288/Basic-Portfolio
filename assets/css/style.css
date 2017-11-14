@@ -1,0 +1,9 @@
+.name{
+	  background: teal;
+	  height: 30px;
+	  width:20%;
+}
+.about{
+	   float: left;
+	   color: gray;
+}
